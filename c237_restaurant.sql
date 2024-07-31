@@ -20,8 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `c237_restaurant`
 --
-CREATE DATABASE IF NOT EXISTS `c237_restaurant` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `c237_restaurant`;
+CREATE DATABASE IF NOT EXISTS `c237_data` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `c237_data`;
 
 -- --------------------------------------------------------
 
